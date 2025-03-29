@@ -170,6 +170,6 @@ kubectl get pods -w
 ```sh
 kubectl logs <pod-name>
 ```
-
+### Video Demonstration - https://drive.google.com/file/d/1lBWYhC_7ArSawhQM7KCWj07BWrOQdfd9/view?usp=sharing
 
 
